@@ -1,0 +1,41 @@
+# Windows system files
+NTUSER.DAT*
+ntuser.dat*
+ntuser.ini
+*.regtrans-ms
+*.TxR.*
+*.TM.blf
+*.TMContainer*
+
+# User profile directories
+AppData/
+Application Data/
+Contacts/
+Cookies/
+Desktop/
+Documents/
+Favorites/
+Links/
+Local Settings/
+Music/
+My Documents/
+Pictures/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+Start Menu/
+Videos/
+
+# Misc
+.claude.json
+.claude/
+.gitconfig
+.nodemid
+desktop.ini
+
+# Installers and archives
+Downloads/*.exe
+Downloads/*.msi
+Downloads/*.zip
+Downloads/files/
